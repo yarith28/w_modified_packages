@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
-import 'customplugin_platform_interface.dart';
+import 'custom_plugin_platform_interface.dart';
 
 /// An implementation of [CustomPluginPlatform] that uses method channels.
 class MethodChannelCustomPlugin extends CustomPluginPlatform {

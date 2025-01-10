@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'customplugin_platform_interface.dart';
+import 'custom_plugin_platform_interface.dart';
 
 class CustomPlugin {
   Future<List<String>> getListOfMockApps() async {
