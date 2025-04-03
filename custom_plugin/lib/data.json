@@ -1,0 +1,12 @@
+{
+    "25-01-13": [
+        {
+            "latitude": 10.123123123,
+            "longitude": 104.123123123123,
+            "trigger_date": "2025-01-13T09:29:25.760779+07:00",
+            "device-id": "KDJFO12938123",
+            "company-id": 123,
+            "shift-type": "normal"
+        }
+    ]
+}
