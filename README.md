@@ -1,1 +1,1 @@
-# Packages for wing_digital_mobile
+# Packages for Wing Digital Mobile App
